@@ -4,7 +4,7 @@ import { useGlobalContext } from './context'
 
 
 const Timer = () => {
-  const [timerMinutes, setTimerMinutes] = useState(9)
+  const [timerMinutes, setTimerMinutes] = useState(7)
     const [timerSeconds, setTimerSeconds] = useState(59)
   // let interval;
 
