@@ -19,7 +19,10 @@ body {
   padding: 5rem 3rem;
 }
 
-
+.email-error {
+  color: red;
+  font-size: 12px;
+}
 
 .form-center h2 {
   font-size: 32px;
